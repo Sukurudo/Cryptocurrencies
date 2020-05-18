@@ -1,6 +1,8 @@
 # Cryptocurrencies
 ### Module 18 Challenge
 
+### Two files; One processing using LabelEncoder, one USing Get_Dummies
+
 ## Pre Process
 This involves cleaning up the dataset to enable us to process the data using Unsupervised learning.
 
